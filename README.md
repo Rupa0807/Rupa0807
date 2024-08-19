@@ -9,7 +9,7 @@
 - 📫 How to reach me **rupa0807@gmail.com**
 
 - ⚡ Fun fact **Our solar system is 4.57 billion years old.**
-<p align="right">![github](https://github.com/user-attachments/assets/b10b1dc8-57f8-4aee-97d0-adaffd8f1f33)</p>
+![github](https://github.com/user-attachments/assets/b10b1dc8-57f8-4aee-97d0-adaffd8f1f33)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

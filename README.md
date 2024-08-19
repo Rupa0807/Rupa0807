@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rupasri Guruprasad</h1>
 <h3 align="center">An aspiring software developer. This GitHub account is my personal learning space where I document my journey through various programming languages, frameworks, and projects. I'm passionate about web development, machine learning, etc. and I'm excited to share my progress with you.</h3>
+![test](https://github.com/user-attachments/assets/40cecbbe-9d98-416b-ad00-a7d03ee652e2)
 
 - 🌱 I’m currently learning **Spring Boot, Microservices**
 
@@ -8,6 +9,7 @@
 - 📫 How to reach me **rupa0807@gmail.com**
 
 - ⚡ Fun fact **Our solar system is 4.57 billion years old.**
+![github](https://github.com/user-attachments/assets/b10b1dc8-57f8-4aee-97d0-adaffd8f1f33)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

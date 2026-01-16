@@ -13,7 +13,7 @@ I’m excited to share my data-driven projects and learning journey
 
 - 🌱 I’m currently learning **AI & Machine Learning fundamentals with Python**
 
-- 💬 Ask me about *Technology,Books,Food**
+- 💬 Ask me about *Technology,Books,Food*
 
 - 📫 How to reach me **rupasrigu@outlook.com**
 

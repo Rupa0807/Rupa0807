@@ -11,7 +11,7 @@ I’m excited to share my data-driven projects and learning journey
 
 
 
-- 🌱 I’m currently  **'Exploring the world of AI'**
+- 🌱 I’m currently  **"Exploring the world of AI"**
 
 - 💬 Ask me about *Technology,Books,Food*
 

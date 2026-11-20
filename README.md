@@ -1,7 +1,7 @@
 
 
 <h1 align="left">Hi there 👋, I'm Rupasri</h1>
-I'm a Data Analysis enthusiast and IT Analyst passionate about turning data into actionable insights. My GitHub showcases projects where I analyze, visualize, and interpret data to solve real-world problems, using tools like Python,SQL,Power BI, Excel, and Tableau.
+I'm a Data Analysis enthusiast and Software Engineer passionate about turning data into actionable insights. My GitHub showcases projects where I analyze, visualize, and interpret data to solve real-world problems, using tools like Python,SQL,Power BI, Excel, and Tableau.
 
 Alongside data analysis, I have a strong foundation in Application Support and software development, with experience in Java, Spring Boot, web development, and REST APIs. This combination allows me to handle data pipelines, backend integration, and dashboard automation efficiently.
 
